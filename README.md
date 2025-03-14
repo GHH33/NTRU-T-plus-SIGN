@@ -1,1 +1,0 @@
-# NTRU+SIGN
